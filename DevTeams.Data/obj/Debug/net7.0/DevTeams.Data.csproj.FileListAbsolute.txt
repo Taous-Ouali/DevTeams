@@ -1,0 +1,12 @@
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\bin\Debug\net7.0\DevTeams.Data.deps.json
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\bin\Debug\net7.0\DevTeams.Data.dll
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\bin\Debug\net7.0\DevTeams.Data.pdb
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.AssemblyInfo.cs
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.dll
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\obj\Debug\net7.0\refint\DevTeams.Data.dll
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.pdb
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Data\obj\Debug\net7.0\ref\DevTeams.Data.dll

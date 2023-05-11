@@ -1,0 +1,15 @@
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.deps.json
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.dll
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.pdb
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Data.dll
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Data.pdb
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.AssemblyInfo.cs
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.CopyComplete
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.dll
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\refint\DevTeams.Repository.dll
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.pdb
+C:\ElevenFiftyPRoject\DevTeamsRefactor\DevTeams.Repository\obj\Debug\net7.0\ref\DevTeams.Repository.dll
